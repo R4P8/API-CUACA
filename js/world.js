@@ -128,6 +128,6 @@ searchinput.addEventListener("keydown", async function (event) {
   }
 });
 
-city("London");
-city("Paris");
-city("Mumbai");
+city("Indonesia");
+city("Malaysia");
+city("Korea");
